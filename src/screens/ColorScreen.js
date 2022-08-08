@@ -3,7 +3,6 @@ import React, { useState } from "react";
 
 const ColorScreen = () => {
   const [colors, setColors] = useState([]);
-  console.log(colors);
 
   return (
     <View>
